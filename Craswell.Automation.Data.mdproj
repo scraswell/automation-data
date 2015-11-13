@@ -17,6 +17,7 @@
     <None Include="Tables\web_repositories.sql" />
     <None Include="Tables\web_respository_configurations.sql" />
     <None Include="Tables\web_repository_security_questions.sql" />
+    <None Include="Tables\statements.sql" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tables\" />
